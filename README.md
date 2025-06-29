@@ -6,4 +6,4 @@
 
 설명 : 유니티 & C#을 활용한 게임 제작
 
-게임 링크 : hyperkale.itch.io/dino-run
+게임 링크 : https://www.hyperkale.itch.io/dino-run
