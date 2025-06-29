@@ -5,3 +5,5 @@
 출처 : 골드메탈 유튜브 https://www.youtube.com/watch?v=EA6e3UeC_Ik
 
 설명 : 유니티 & C#을 활용한 게임 제작
+
+게임 링크 : hyperkale.itch.io/dino-run
